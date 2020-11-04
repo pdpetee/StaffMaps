@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StaffMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_directions_text">Get Directions</string>
+    <string name="recenter_text">Recenter</string>
+    <string name="navigation_info_text">*No Navigation Instructions*\nSpeed = null\nArrive in = null</string>
+</resources>
